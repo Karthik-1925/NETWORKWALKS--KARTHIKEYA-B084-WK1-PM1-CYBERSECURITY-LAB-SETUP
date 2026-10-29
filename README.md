@@ -249,7 +249,7 @@ After running these commands the connection came up successfully and the ping te
 ---
 
 ## 10. Author
-**Karthikeya SHailesh Kumar**\
+**Karthikeya Shailesh Kumar**\
 Third year Computer Engineering student\
 Cybersecurity Intern, Networkwalks
 
