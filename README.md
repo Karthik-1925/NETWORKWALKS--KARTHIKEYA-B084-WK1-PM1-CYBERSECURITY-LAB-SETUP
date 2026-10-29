@@ -3,7 +3,7 @@
 # Cybersecurity Testing Lab Setup (VirtualBox + Kali Linux)
 
 > **Internship Week 1 – Project Module 1 (WK1-PM1)**
-> Built by: **[Your Name]** | Date: **27 October 2026**
+> Built by: **Karthikeya Shailesh Kumar** | Date: **27 October 2026**
 
 ---
 
