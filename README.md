@@ -248,4 +248,13 @@ After running these commands the connection came up successfully and the ping te
 
 ---
 
+## 👤 Author
+**Karthikeya SHailesh Kumar**\
+Third year Computer Engineering student\
+Cybersecurity Intern, Networkwalks
+
+LinkedIn: <https://www.linkedin.com/in/karthikeya-shailesh-kumar-b274ab389/>
+
+---
+
 > ⚠️ **Ethical use:** This lab is for learning and authorised testing only. Never use these tools against systems or networks you do not own or have explicit written permission to test.
